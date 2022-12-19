@@ -59,7 +59,7 @@
     "string-env-interpolation": "1.0.1",
     "systeminformation": "5.16.6",
     "terminal-link": "2.1.1",
-    "typescript": "4.7.4"
+    "typescript": "4.9.4"
   },
   "devDependencies": {
     "@babel/cli": "7.19.3",
